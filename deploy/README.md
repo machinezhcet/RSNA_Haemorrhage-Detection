@@ -1,0 +1,1 @@
+We used the code template from https://github.com/mtobeiyf/keras-flask-deploy-webapp (GPL license) for our model's deployment
